@@ -29,7 +29,7 @@ I believe cybersecurity is built through **hands-on practice**, not theory alone
 
 
 
-My approach is practical and workflow-driven. I explore attacker techniques to understand behavior, then switch into a **defender’s mindset** — focusing on **SIEM monitoring, log analysis, threat detection, and basic incident response**. This helps me think like a SOC analyst, not just a learner.
+My approach is practical and workflow-driven. I explore attacker techniques to understand behavior, then switch into a **defender’s mindset** by focusing on **SIEM monitoring, log analysis, threat detection, and basic incident response**. This helps me think like a SOC analyst, not just a learner.
 
 
 

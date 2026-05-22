@@ -17,17 +17,21 @@
 
 ## About
 
-CompTIA Security+ certified SOC Analyst with hands-on experience investigating simulated real-world attacks across Linux and Windows environments. Skilled in alert triage, log correlation, and end-to-end incident investigation to reconstruct attack chains and uncover evasive threats. Applies MITRE ATT&CK and threat intelligence to validate true positives and reduce false positives. Focused on effective incident response and continuous detection improvement.
+Detail-oriented SOC Analyst with hands-on experience investigating simulated real-world attacks across Linux and Windows
+environments. Skilled in alert triage, log correlation, phishing analysis, and end-to-end incident investigations to reconstruct
+attack chains, identify malicious activity, and support effective incident response. Applies MITRE ATT&CK, threat intelligence,
+and SIEM-driven analysis to validate true positives, reduce false positives, and continuously improve detection capabilities.
+
 
 ---
 
 ## My Security Approach
 
-- I learn security by **doing**, not memorizing  
-- I break things in labs to understand **real attack paths**  
-- I focus on **logs, alerts, and evidence**, not just tools  
-- I write small **automation scripts** to support detection  
-- I document what I learn through **projects and blogs**
+- I approach security from an investigation and detection perspective  
+- I focus on log analysis, alert validation, and attack-chain reconstruction  
+- I build hands-on labs to understand attacker techniques in realistic environments  
+- I use scripting and automation to support detection and operational efficiency  
+- I document findings and technical learning through projects and blogs
 
 ---
 
@@ -35,7 +39,6 @@ CompTIA Security+ certified SOC Analyst with hands-on experience investigating s
 
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk_SOAR-000000?style=for-the-badge&logo=splunk&logoColor=00ff41"/>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zeek-4A4A4A?style=for-the-badge&logo=zeek&logoColor=white"/>
@@ -51,6 +54,7 @@ CompTIA Security+ certified SOC Analyst with hands-on experience investigating s
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,9 +76,9 @@ CompTIA Security+ certified SOC Analyst with hands-on experience investigating s
 
 ## Blogs
 
-I write cybersecurity blogs on **Medium**, where I explain my projects and labs, break down cyber attacks and security news, and share what I learn throughout my cybersecurity journey.
+I write cybersecurity blogs on **Medium**, sharing technical learning, cybersecurity concepts, and insights from my ongoing journey in security.
 
-👉 Medium: https://medium.com/@prasad.mysore1624
+Medium: https://medium.com/@prasad.mysore1624
 
 ---
 

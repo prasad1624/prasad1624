@@ -1,87 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=$%20whoami&fontSize=48&fontColor=00ffcc&animation=twinkling)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=00FFCC&center=true&vCenter=true&width=800&lines=M+V+S+SAI+PRASAD;SOC+Analyst+|+Cybersecurity+Analyst+|+Blue+Team;Hands-on+Learner+|+Detection+Focused+|+Defender+Mindset" />
-</p>
+## About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prasad2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge"/>
-  </a>
-  <a href="https://medium.com/@prasad.mysore1624">
-    <img src="https://img.shields.io/badge/Medium-Blogs-000000?logo=medium&style=for-the-badge"/>
-  </a>
-</p>
+I'm a Computer Science and Cyber Security graduate focused on understanding how attacks unfold, how traces of malicious activity appear across systems and networks, and how those traces can be used to investigate security incidents. I'm particularly interested in the investigative side of cybersecurity, connecting evidence, reconstructing attack sequences, and understanding the reasoning behind security findings.
 
----
+I use GitHub to document my technical work through cybersecurity projects, investigation reports, and supporting documentation. I value understanding the *why* behind a result, not just getting a tool to work, and aim to make my work clear enough for others to follow the investigation and its findings.
 
-## About
-
-Detail-oriented SOC Analyst with hands-on experience investigating simulated real-world attacks across Linux and Windows
-environments. Skilled in alert triage, log correlation, phishing analysis, and end-to-end incident investigations to reconstruct
-attack chains, identify malicious activity, and support effective incident response. Applies MITRE ATT&CK, threat intelligence,
-and SIEM-driven analysis to validate true positives, reduce false positives, and continuously improve detection capabilities.
-
-
----
-
-## My Security Approach
-
-- I approach security from an investigation and detection perspective  
-- I focus on log analysis, alert validation, and attack-chain reconstruction  
-- I build hands-on labs to understand attacker techniques in realistic environments  
-- I use scripting and automation to support detection and operational efficiency  
-- I document findings and technical learning through projects and blogs
+I'm also exploring the intersection of Artificial Intelligence and cybersecurity. As AI continues to reshape the technology landscape, I'm building my understanding of its applications in security operations, threat detection, and investigation while experimenting with new ideas and tools.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeek-4A4A4A?style=for-the-badge&logo=zeek&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pfSense-003366?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Zeek-4A4A4A?style=for-the-badge&logo=zeek&logoColor=white" alt="Zeek"/>
+  <img src="https://img.shields.io/badge/pfSense-003366?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-8A2BE2?style=for-the-badge&logo=mitre&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NIST_SP_800--61-2E8B57?style=for-the-badge&logo=nist&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ISO_27001-003366?style=for-the-badge&logo=iso&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zero_Trust-00ff41?style=for-the-badge&logo=zerotrust&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-8A2BE2?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE ATT&CK"/>
+  <img src="https://img.shields.io/badge/NIST_SP_800--61-2E8B57?style=for-the-badge&logo=nist&logoColor=white" alt="NIST SP 800-61"/>
+  <img src="https://img.shields.io/badge/ISO_27001-003366?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Top 10"/>
+  <img src="https://img.shields.io/badge/Zero_Trust-00ff41?style=for-the-badge&logo=zerotrust&logoColor=black" alt="Zero Trust"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ---
 
-## Blogs
+## Technical Writing
 
-I write cybersecurity blogs on **Medium**, sharing technical learning, cybersecurity concepts, and insights from my ongoing journey in security.
+I write about technical concepts, explaining them in a way that reflects my understanding, projects I build and the thinking behind them, and lessons and insights gained through experience and exploration.
 
-Medium: https://medium.com/@prasad.mysore1624
-
----
-
-<p align="center">
-  <i>“Detection comes first. Response follows. Prevention improves.”</i>
-</p>
+You can find my writing on [Medium](https://medium.com/@prasad.mysore1624).

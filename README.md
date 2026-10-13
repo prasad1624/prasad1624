@@ -1,11 +1,13 @@
 
 ## About Me
 
-I'm a Computer Science and Cyber Security graduate focused on understanding how attacks unfold, how traces of malicious activity appear across systems and networks, and how those traces can be used to investigate security incidents. I'm particularly interested in the investigative side of cybersecurity, connecting evidence, reconstructing attack sequences, and understanding the reasoning behind security findings.
+My work in cybersecurity focuses on threat detection and incident investigation. I'm interested in analyzing security events, understanding how attacks unfold, and connecting evidence to build a clear picture of what happened.
 
-I use GitHub to document my technical work through cybersecurity projects, investigation reports, and supporting documentation. I value understanding the *why* behind a result, not just getting a tool to work, and aim to make my work clear enough for others to follow the investigation and its findings.
+Through my projects, I document my investigations, the evidence I work with, and the reasoning behind my findings. I believe technical work becomes more valuable when others can understand the process behind it, learn from the findings, and build upon them. I aim to make my work clear, reproducible, and useful to others exploring similar problems.
 
-I'm also exploring the intersection of Artificial Intelligence and cybersecurity. As AI continues to reshape the technology landscape, I'm building my understanding of its applications in security operations, threat detection, and investigation while experimenting with new ideas and tools.
+I'm currently exploring and experimenting with Artificial Intelligence, building my understanding of how it works and where it intersects with cybersecurity. I'm particularly interested in its practical applications in threat detection and security investigations.
+
+I'm open to open-source contributions and technical collaboration. I welcome opportunities to exchange ideas, contribute to meaningful projects, and learn from others in the technical community.
 
 ---
 
@@ -50,6 +52,6 @@ I'm also exploring the intersection of Artificial Intelligence and cybersecurity
 
 ## Technical Writing
 
-I write about technical concepts, explaining them in a way that reflects my understanding, projects I build and the thinking behind them, and lessons and insights gained through experience and exploration.
+I write about technical concepts, share what I learn through hands-on projects, and explore the ideas and reasoning behind the work. My writing is a way to deepen my understanding, document what I discover, and make useful insights accessible to others.
 
 You can find my writing on [Medium](https://medium.com/@prasad.mysore1624).
